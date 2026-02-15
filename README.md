@@ -23,6 +23,7 @@ I am a passionate developer focused on **distributed systems**, **networking**, 
 * Directed and edited the mini-series **"Life"**.
 * C2 Level in English (Bilingual).
 * Interested in Acting, Combat Sports, and Advanced Mathematics.
+* Martial artists for 5 years.
 
 ---
 
