@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mohamed Ilian SBAI
 
 ### 🚀 Computer Science Student @ Paris Cité | Aspiring Software Engineer
-I am a passionate developer focused on **distributed systems**, **networking**, and **automation**. I love bridging the gap between technical complexity and creative storytelling.
+I am a passionate developer focused on **distributed systems**, **networking**, and **automation**. I love bridging the gap between technical complexity and creative storytelling. I specially like **data structures**, **cybersecurity**, **AI**, and having a **deep understanding** of **every level of programmation**.
 
 ---
 
