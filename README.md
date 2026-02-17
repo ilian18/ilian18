@@ -28,7 +28,6 @@ I am a passionate developer focused on **distributed systems**, **networking**, 
 ---
 
 ### 📬 Connect with me
-* **LinkedIn:** [Lien vers ton profil]
 * **Email:** ilian.sbai@gmail.com
 
 ### 🛠️ Programming Languages
