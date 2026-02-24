@@ -1,7 +1,17 @@
 # 👋 Hello, I'm Mohamed Ilian SBAI
 
-### 🚀 Computer Science Student @ Paris Cité | Aspiring Software Engineer
-I am a passionate developer focused on **distributed systems**, **networking**, and **automation**. I love bridging the gap between technical complexity and creative storytelling. I especially like **data structures**, **cybersecurity**, **AI**, and having a **deep understanding** of **every level of programmation**.
+### 🚀 Math-CS Student @ Paris Cité | Distributed Systems & Algorithms
+I am a Software Engineer at heart, specializing in **distributed systems**, **networking protocols**, and **computational logic**. I bridge the gap between high-level mathematical theory and low-level system implementation. My focus is on building robust, scalable, and decentralized architectures.
+
+---
+
+### 🏆 Academic Excellence
+
+GPA: 17.66/20 — Université Paris Cité 
+
+Algorithms & Data Structures: 18.25/20
+
+Baccalauréat: Mention Très Bien
 
 ---
 
