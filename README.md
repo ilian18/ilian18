@@ -34,7 +34,7 @@ I am a Software Engineer at heart, specializing in **distributed systems**, **ne
 * **Logic:** Developed a "Proof-of-Exercise" gateway that restricts mobile access until specific physical goals are met.
 * **Processing:** Optimized frame-by-frame image processing to ensure low-latency detection on mobile hardware.
 * 
-**[Google Booking Automator](lien-vers-ton-repo-booking):** 
+**[📅 Google Booking Automator](lien-vers-ton-repo-booking):** 
 * **API Integration:** Full synchronization between custom booking logic and Google Calendar/Sheets APIs.
 * **Business Value:** Reduced scheduling overhead by automating client appointment workflows.
 
