@@ -1,62 +1,34 @@
-👋 Hello, I'm Mohamed Ilian SBAI
-🚀 Math-CS Student @ Paris Cité | Distributed Systems & Algorithms
-I am a Software Engineer at heart, specializing in distributed systems, networking protocols, and computational logic. I bridge the gap between high-level mathematical theory and low-level system implementation. My focus is on building robust, scalable, and decentralized architectures.
+# 👋 Hello, I'm Mohamed Ilian SBAI
 
-🏆 Academic Excellence
+### 🚀 Computer Science Student @ Paris Cité | Aspiring Software Engineer
+I am a passionate developer focused on **distributed systems**, **networking**, and **automation**. I love bridging the gap between technical complexity and creative storytelling. I especially like **data structures**, **cybersecurity**, **AI**, and having a **deep understanding** of **every level of programmation**.
 
-GPA: 17.66/20 — Université Paris Cité 
+---
 
-Algorithms & Data Structures: 18.25/20
+### 💻 Technical Toolbox
+* **Languages:** Python (Advanced), JavaScript (Fluent), HTML/CSS
+* **Technologies:** TCP Sockets, Multithreading, JSON Metadata
+* **APIs:** Google Calendar API, Google Sheets API
+* **Creative:** DaVinci Resolve, Adobe Premiere Pro, Photoshop
 
-Discrete Mathematics: High Honors
+---
 
+### 🔥 Top Projects
+* **[P2P File Sharing System](lien-vers-ton-repo-p2p):** A decentralized system using Gossip Protocol and TCP Sockets.
+* **[Google Booking Automator](lien-vers-ton-repo-booking):** Appointment synchronization using Google APIs.
 
-Baccalauréat: Mention Très Bien 
+---
 
-💻 Engineering Toolbox
-Core Languages: Python (Expert), JavaScript (Fluent), C (Learning)
+### 🎭 Beyond Coding
+* Directed and edited the mini-series **"Life"**.
+* C2 Level in English (Bilingual), and French (Native language).
+* Interested in Acting, Combat Sports, Advanced Mathematics, and Philosophy
+* Martial artists for 5 years.
 
-Systems & Networking: TCP/IP Sockets, Multi-threading, Gossip Protocols, Binary Data Management
+---
 
-Cloud & Automation: Google Cloud Platform (GCP), Google Workspace APIs (Calendar, Sheets)
-
-Dev Tools: Git/GitHub, Linux CLI, JSON-based Protocols
-
-🔥 High-Impact Projects
-🌐 Decentralized P2P File Sharing System
-Architecture: Developed a purely peer-to-peer network from scratch using TCP Sockets.
-
-Logic: Implemented a Gossip Flooding Algorithm with TTL management for resource discovery.
-
-Performance: Engineered binary chunking (1MB) and multi-threaded handling to optimize high-concurrency transfers.
-
-📱 Sport-to-Unlock - Gamified Productivity
-Hardware Integration: Utilized accelerometer sensor data to gate mobile access behind physical activity.
-
-Logic: Built real-time motion detection algorithms to correlate physical movement with software unlocks.
-
-📅 Google Booking Automator
-API Integration: Full synchronization between custom booking logic and Google Calendar/Sheets APIs.
-
-Business Value: Reduced scheduling overhead by automating client appointment workflows.
-
-🎭 Beyond Coding
-
-Bilingual English (C2 Level): Native-like proficiency, ideal for international engineering teams.
-+1
-
-
-Creative Arts: Directed and edited the mini-series "Life" (Mastery of DaVinci Resolve & Premiere Pro).
-
-
-Discipline: Practicing Combat Sports for 5 years, fostering focus and resilience.
-
-
-Aisancé Orale: Scored 20/20 at the "Grand Oral" (Baccalauréat).
-
-📬 Connect with me
-
-Email: ilian.sbai@gmail.comail.com
+### 📬 Connect with me
+* **Email:** ilian.sbai@gmail.com
 
 ### 🛠️ Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
