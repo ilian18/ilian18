@@ -29,8 +29,9 @@ I am a Software Engineer at heart, specializing in **distributed systems**, **ne
 * **Logic:** Implemented a **Gossip/Flooding Algorithm** with TTL management for resource discovery.
 * **Performance:** Engineered **binary chunking (1MB)** and multi-threaded handling to optimize high-concurrency transfers.
 **[📱 Sport-to-Unlock - Gamified Productivity](lien-vers-ton-repo-p2p):**
-* **Hardware Integration:** Utilized **accelerometer sensor data** to gate mobile access behind physical activity.
-* **Logic:** Built real-time motion detection algorithms to correlate physical movement with software unlocks.
+* **Computer Vision:** Engineered a real-time motion analysis system using **OpenCV** to detect and count push-ups via camera feed.
+* **Logic:** Developed a "Proof-of-Exercise" gateway that restricts mobile access until specific physical goals are met.
+* **Processing:** Optimized frame-by-frame image processing to ensure low-latency detection on mobile hardware.
 **[Google Booking Automator](lien-vers-ton-repo-booking):** 
 * **API Integration:** Full synchronization between custom booking logic and Google Calendar/Sheets APIs.
 * **Business Value:** Reduced scheduling overhead by automating client appointment workflows.
