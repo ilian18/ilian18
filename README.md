@@ -7,7 +7,7 @@ I am a Software Engineer at heart, specializing in **distributed systems**, **ne
 
 ###  Academic Excellence
 
-* **GPA**: Top 5% — 15.64/20 — Université Paris Cité 
+* **GPA**: Top 4.6% — 15.64/20 — Université Paris Cité 
 
 * **Algorithms & Data Structures**: 18.25/20
 
