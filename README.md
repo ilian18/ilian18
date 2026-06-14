@@ -15,7 +15,7 @@ I am a Software Engineer at heart, specializing in **distributed systems**, **ne
 
 ---
 
-### * Technical Toolbox
+### Technical Toolbox
 * **Languages:** Python (Advanced), JavaScript (Fluent), HTML/CSS
 * **Technologies:** TCP/IP Sockets, Multithreading, Gossip Protocols, JSON Metadata, Binary Data Management
 * **Cloud & Automation:** Google Cloud Platform (GCP), Google Workspace APIs (Calendar, Sheets)
