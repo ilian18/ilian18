@@ -28,8 +28,7 @@ I am a Software Engineer at heart, specializing in **distributed systems**, **ne
 * **Architecture:** Developed a purely peer-to-peer network from scratch using **TCP Sockets.**
 * **Logic:** Implemented a **Gossip/Flooding Algorithm** with TTL management for resource discovery.
 * **Performance:** Engineered **binary chunking (1MB)** and multi-threaded handling to optimize high-concurrency transfers.
-* 
-* 
+
 **[ Google Booking Automator](lien-vers-ton-repo-booking):** 
 * **API Integration:** Full synchronization between custom booking logic and Google Calendar/Sheets APIs.
 * **Business Value:** Reduced scheduling overhead by automating client appointment workflows.
